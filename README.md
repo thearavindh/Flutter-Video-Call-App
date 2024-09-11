@@ -10,7 +10,7 @@ Dart SDK (>= 2.18)
 Android Studio or Xcode for development and testing
 
 ## Clone the Repository:
-   git clone https://github.com/yourusername/flutter-video-voice-call-app.git
+   git clone https://github.com/thearavindh/Flutter-Video-Call-App.git
    cd flutter-video-voice-call-app
 
    
